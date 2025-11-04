@@ -19,8 +19,8 @@ Bu API, kütüphanedeki kitapları, yazarları, kategorileri, yayınevlerini ve 
 1.  Projeyi klonlayın veya indirin.
 2.  `application.properties` dosyasında PostgreSQL veritabanı bağlantı ayarlarınızı yapılandırın.
 3.  Projeyi bir IDE (IntelliJ IDEA, Eclipse, vb.) üzerinden çalıştırın veya terminalde `mvn spring-boot:run` komutunu kullanın.
-4.  Uygulama varsayılan olarak `http://localhost:8080` adresinde çalışmaya başlayacaktır.
-
+4.  Uygulama varsayılan olarak `http://localhost:8081` adresinde çalışmaya başlayacaktır.
+5.  Database port 5434
 ## API Endpoints
 
 Proje aşağıdaki temel endpoint'leri içerir:
